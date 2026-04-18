@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"E:/Claude Test Project\" && gh repo create claude-test-project --public --source=. --remote=origin --push)"
+    ]
+  }
+}
